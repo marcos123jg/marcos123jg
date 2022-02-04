@@ -9,7 +9,7 @@ Olá, Sou o Marcos
 - linguagens: Python, C++, C, HTML, CSS, Java.
 -->
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+
 <div align="center">
   <a href="https://github.com/marcos123jg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos123jg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
